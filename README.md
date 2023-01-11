@@ -1,6 +1,6 @@
 # Programming Psyduck
 * Chrome extension to promote better technical interview prep on leetcode by prompting user to talk through the problem while coding.
-* Note: This is a personal project, I do not intend to publish full pokedex functionality since I do not own pokedex.
+* Note: This is a personal project, I do not intend to publish full pokedex functionality since I do not own pokemon.
 ## In-progress:
 - timer functionality
 - saving progress in local storage or write to an excel sheet or making a dashboard
