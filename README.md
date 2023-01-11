@@ -1,6 +1,9 @@
 # Programming Psyduck
 
-https://user-images.githubusercontent.com/32972936/211927881-66e28597-0b07-46f4-b7b4-608429675de1.mov
+
+https://user-images.githubusercontent.com/32972936/211928090-bac82381-17e5-42dc-b2a1-0720f1a9abe5.mov
+
+
 
 
 * Chrome extension to promote better technical interview prep on leetcode by prompting user to talk through the problem while coding.
