@@ -15,7 +15,7 @@ https://user-images.githubusercontent.com/32972936/211928090-bac82381-17e5-42dc-
 - Adding sample Pokedex interface
 ## Installation (requires npm installed):
 1) Download the project files
-2) in terminal use "npm run build" to create the build file 
+2) In terminal use "npm run build" to create the build file 
 3) In chrome tab, navigate to chrome://extensions/ 
-4) click Load unpack button and select build folder
+4) Click Load unpack button and select build folder
 5) Pin the extension to your browser and click icon to view your pokedex (Optional)
