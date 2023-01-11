@@ -10,7 +10,7 @@ https://user-images.githubusercontent.com/32972936/211928090-bac82381-17e5-42dc-
 * Note: This is a personal project, I do not intend to publish full pokedex functionality since I do not own pokemon.
 ## In-progress:
 - timer functionality
-- analytic for speech captured (how long did user actively talk, how clear was it etc...)
+- display analytics for speech captured (how long did user actively talk, how clear was it etc...)
 - saving progress in local storage or write to an excel sheet or making a dashboard
 - Adding sample Pokedex interface
 ## Installation:
